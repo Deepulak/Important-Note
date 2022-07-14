@@ -1,0 +1,4 @@
+https://www.instructables.com/A-solution-to-avrdude-stk500getsync-not-in-syn/
+
+
+ 	

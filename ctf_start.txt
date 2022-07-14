@@ -1,0 +1,24 @@
+so here we are working on ctf challenge from vulnhub.com 
+
+
+and toDAY IS OCT1 AND WE GET THE LAST FILE UPLOAD ON THAT SITE
+
+ON SEPT11  
+
+TODAY WE ARE Download from the page so if every thing its same after this time
+
+
+we shoulD start downloadING FROM PAGE 10
+
+
+AND the lab starts from Shuriken: Node 
+
+
+on the hacking articles site that starts from 
+
+
+HackTheBox Sauna Walkthrough 
+
+after this box
+
+
